@@ -1,0 +1,139 @@
+{
+  "total_tests": 22,
+  "passed_tests": 22,
+  "success_rate": 100.0,
+  "test_results": [
+    {
+      "test": "User Registration",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:28.481929"
+    },
+    {
+      "test": "Login - tech_admin",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:28.743494"
+    },
+    {
+      "test": "Login - speaker",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.009633"
+    },
+    {
+      "test": "Login - senator",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.271041"
+    },
+    {
+      "test": "Get Current User",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.308905"
+    },
+    {
+      "test": "Get Bills",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.349276"
+    },
+    {
+      "test": "Create Bill",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.386839"
+    },
+    {
+      "test": "Vote on Bill - FOR",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.427903"
+    },
+    {
+      "test": "Vote on Bill - AGAINST",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.472219"
+    },
+    {
+      "test": "Open Bill Voting",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.511208"
+    },
+    {
+      "test": "Speaker Decision",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.551738"
+    },
+    {
+      "test": "Get Sessions",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.634209"
+    },
+    {
+      "test": "Create Session",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.698678"
+    },
+    {
+      "test": "Mark Attendance",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.738941"
+    },
+    {
+      "test": "Get Users",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.775434"
+    },
+    {
+      "test": "Update User Roles",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.816451"
+    },
+    {
+      "test": "Get News",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.855230"
+    },
+    {
+      "test": "Create News",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.914391"
+    },
+    {
+      "test": "Get Decrees",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:29.954947"
+    },
+    {
+      "test": "Create Decree",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:30.014915"
+    },
+    {
+      "test": "Get Settings",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:30.054099"
+    },
+    {
+      "test": "Update Settings",
+      "success": true,
+      "details": "Status: 200",
+      "timestamp": "2025-10-22T08:42:30.094103"
+    }
+  ]
+}
